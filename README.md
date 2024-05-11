@@ -1,8 +1,10 @@
-<p align="center"><img  src="[[https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=826&t=st=1715422520~exp=1715423120~hmac=5816119111e9132ae15bf05e33560e185a1ac4934d1ed4091e7a83e642636351](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdeveloper-tester&psig=AOvVaw0EPSBVaRFvy5qP91nFbrWl&ust=1715509695124000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICyteaxhYYDFQAAAAAdAAAAABAE)" alt="pic" width="100" height="100"/></p>
+<p align="center"><img  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=826&t=st=1715422520~exp=1715423120~hmac=5816119111e9132ae15bf05e33560e185a1ac4934d1ed4091e7a83e642636351" alt="pic" width="100" height="100"/></p>
 <h1 align="center">Hi 👋, I'm Chamika Heshan</h1>
 <h3 align="center">A passionate Developer from Srilanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamiya99&label=Profile%20views&color=0e75b6&style=flat" alt="chamiya99" /> </p>
+
+
 
 <hr>
 
