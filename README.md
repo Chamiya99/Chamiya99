@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** **spring boot**
   
 - 🧑‍🎓 I’m an Undergraduate at **University of Sri Jayewardenepura**
 
