@@ -63,11 +63,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://fb.com/chamika-ethuldura" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/@as2020911" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/CT3yhZB6" target="_blank">
